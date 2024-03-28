@@ -67,7 +67,6 @@
   },
   "packageManager": "yarn@3.2.0",
   "dependencies": {
-    "@nomicfoundation/hardhat-chai-matchers": "^2.0.6",
     "solc": "0.8.7"
   }
 }
