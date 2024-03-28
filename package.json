@@ -1,5 +1,5 @@
 {
-  "name": "zetachain",
+  "name": "kyex",
   "license": "MIT",
   "version": "0.1.0",
   "workspaces": {
@@ -12,7 +12,8 @@
     "blockchain",
     "solidity",
     "omnichain",
-    "crosschain"
+    "crosschain",
+    "kyex"
   ],
   "scripts": {
     "clean": "yarn workspaces foreach -pv run clean",
@@ -66,6 +67,7 @@
   },
   "packageManager": "yarn@3.2.0",
   "dependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.6",
     "solc": "0.8.7"
   }
 }

@@ -1,6 +1,6 @@
 # ZetaChain App Contracts
 
-Contracts of official applications deployed by the core team to ZetaChain.
+Official Contracts of KYEX Trading Platform.
 
 ## Learn more about ZetaChain
 
@@ -26,8 +26,6 @@ Contracts of official applications deployed by the core team to ZetaChain.
         yarn compile
 
 ### Packages
-
-#### [Zeta App contracts](packages/zeta-app-contracts)
 
 #### [ZEVM App contracts](packages/zevm-app-contracts)
 
